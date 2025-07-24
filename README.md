@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.imgur.com/Z6qjN5V.gif" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/tusharjaiswal28/tusharjaiswal28/blob/main/banner.png.png?raw=true" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Tushar Jaiswal 👋</h1>
