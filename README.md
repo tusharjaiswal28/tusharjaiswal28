@@ -41,10 +41,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=radical" alt="Tushar's GitHub stats" />
+  <!-- Light Mode Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </picture>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjaiswal28&theme=radical" alt="GitHub streak" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=radical" alt="GitHub Streak" />
+  </picture>
 </p>
+
 
 ---
 
