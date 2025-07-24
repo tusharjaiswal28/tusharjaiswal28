@@ -41,19 +41,37 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Light Mode Stats -->
+  <!-- GitHub Stats -->
   <picture>
+    <!-- Light mode -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=default"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <!-- Default (fallback) -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal28&show_icons=true&theme=radical" 
+      alt="GitHub Stats" />
   </picture>
   <br/>
+
+  <!-- GitHub Streak -->
   <picture>
+    <!-- Light mode -->
     <source 
       srcset="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=default"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=radical" alt="GitHub Streak" />
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <!-- Default (fallback) -->
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=tusharjaiswal28&theme=radical" 
+      alt="GitHub Streak" />
   </picture>
 </p>
 
@@ -63,8 +81,22 @@
 ### 📌 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjaiswal28&layout=compact&theme=radical" alt="Top languages" />
+  <picture>
+    <!-- Light mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjaiswal28&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjaiswal28&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <!-- Default fallback -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjaiswal28&layout=compact&theme=radical" 
+      alt="Top Languages" />
+  </picture>
 </p>
+
 
 ---
 
